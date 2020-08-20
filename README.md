@@ -1,1 +1,1 @@
-<img src="animation.gif" alt="Something" width="500" height="500">
+<img src="https://raw.githubusercontent.com/SparklingComet/SparklingComet/master/animation.gif" alt="Something" width="500" height="500">
